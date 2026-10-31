@@ -1,0 +1,1 @@
+DATASET SETUP\n\nIf automatic UCI download does not work in BITS Virtual Lab:\n1. Download the Bank Marketing dataset from UCI.\n2. Extract the archive and locate bank-full.csv.\n3. Upload bank-full.csv into this same project folder, beside train.py.\n4. Run: %run train.py\n\nImportant: bank-full.csv is semicolon-separated; train.py handles this automatically.\n
